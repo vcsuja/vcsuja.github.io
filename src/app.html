@@ -4,6 +4,10 @@
 		<meta charset="utf-8" />
 		<link rel="icon" href="%sveltekit.assets%/favicon.ico" />
 		<meta name="viewport" content="width=device-width" />
+		<title>Vineeth Chandran Suja</title>
+		<meta name="author" content="Vineeth Chandran Suja" />
+		<meta name="description" content="Personal webpage for Vineeth Chandran Suja" />
+		<meta name="keywords" content="academic-website, portfolio-website, research, science, physics, biology" />
 		<script type="module">
 			const theme = localStorage.getItem('color-scheme');
 			if (
@@ -11,10 +15,10 @@
 				(!theme && window.matchMedia('(prefers-color-scheme: dark)').matches)
 			) {
 				document.documentElement.className = 'dark';
-				localStorage.setItem('color-scheme', 'dark')
+				localStorage.setItem('color-scheme', 'dark');
 			} else {
 				document.documentElement.className = 'light';
-				localStorage.setItem('color-scheme', 'light')
+				localStorage.setItem('color-scheme', 'light');
 			}
 		</script>
 		%sveltekit.head%

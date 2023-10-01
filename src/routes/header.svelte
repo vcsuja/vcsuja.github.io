@@ -4,7 +4,9 @@
 	import { fly } from 'svelte/transition';
 </script>
 
-<nav class="border-b border-b-slate-600 fixed top-0 left-0 right-0 z-10 opacity-100 dark:bg-zinc-900 bg-white">
+<nav
+	class="border-b border-b-slate-600 fixed top-0 left-0 right-0 z-10 opacity-100 dark:bg-zinc-900 bg-white"
+>
 	<div class="max-w-screen-md mx-auto flex items-center px-5">
 		<a href="/" class="text-lg">
 			<strong class="font-bold">Vineeth</strong> Chandran Suja
@@ -16,16 +18,24 @@
 			</li>
 		</ul>
 
-		<button class="overflow-hidden p-4" on:click={toggleTheme}>
-			{#if $theme === 'dark'}
-				<div in:fly={{ y: 10 }}>
-					<Sun />
-				</div>
-			{:else}
-				<div in:fly={{ y: -10 }}>
-					<Moon />
-				</div>
-			{/if}
-		</button>
+		{#if $theme === 'dark'}
+			<button
+				aria-label="Change to light mode"
+				in:fly={{ y: 10 }}
+				class="overflow-hidden p-4"
+				on:click={toggleTheme}
+			>
+				<Sun />
+			</button>
+		{:else}
+			<button
+				aria-label="Change to dark mode"
+				in:fly={{ y: -10 }}
+				class="overflow-hidden p-4"
+				on:click={toggleTheme}
+			>
+				<Moon />
+			</button>
+		{/if}
 	</div>
 </nav>

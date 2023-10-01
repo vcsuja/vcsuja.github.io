@@ -5,14 +5,17 @@
 	const socialsData = [
 		{
 			icon: Mail,
+      label: "send mail",
 			url: 'mailto:vinny@g.harvard.edu'
 		},
 		{
-			icon: Linkedin,
+      icon: Linkedin,
+      label: "visit linkedin profile",
 			url: 'https://www.linkedin.com/in/vineeth-chandran-suja-4700a264'
 		},
 		{
-			icon: Twitter,
+      icon: Twitter,
+      label: "visit twtitter profile",
 			url: 'https://twitter.com/vinnysuja'
 		}
 	];
