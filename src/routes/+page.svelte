@@ -22,7 +22,7 @@
 </script>
 
 <h1 class="text-4xl mb-2">Vineeth 'Vinny' Chandran Suja</h1>
-<p class="text-sm mb-4">Post doctoral Fellow, Harvard University</p>
+<p class="text-sm mb-4">Post doctoral Researcher, Harvard University</p>
 
 <div class="md:float-right mx-auto max-w-[210px] md:mx-10 my-10">
 	<img class="rounded-full mb-3" src={vinnyImage} alt="Vineeth 'Vinny' Chandran Suja" />
