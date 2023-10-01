@@ -66,4 +66,38 @@
 		interface of multiple fields - often bridging our expertise across chemical/biomolecular
 		engineering and soft matter physics in the context of living cells.
 	</p>
+	<br />
+	<p>
+		Cells comprise billions of biomolecules that self-organize into dozens of microscopic assemblies
+		called biomolecular condensates. Biomolecular condensates are found across the tree of life,
+		play key roles in development and physiology, and misregulated or aberrant in diseased states.
+		Phase transitions are increasingly understood to be a unifying mechanism driving condensate
+		assembly and function.
+	</p>
+	<br />
+	<p>
+		Our research aims to advance this emerging paradigm of biomolecular condensates as functional
+		multiphase matter and dynamic biological assemblies. This will enable us to understand and
+		control fundamental biological processes, pinpoint and potentially reverse aberrant disease
+		pathways, and engineer adaptive multiphase materials. To do this, we will flexibly work at the
+		interface of multiple fields - often bridging our expertise across chemical/biomolecular
+		engineering and soft matter physics in the context of living cells.
+	</p>
+	<br />
+	<p>
+		Cells comprise billions of biomolecules that self-organize into dozens of microscopic assemblies
+		called biomolecular condensates. Biomolecular condensates are found across the tree of life,
+		play key roles in development and physiology, and misregulated or aberrant in diseased states.
+		Phase transitions are increasingly understood to be a unifying mechanism driving condensate
+		assembly and function.
+	</p>
+	<br />
+	<p>
+		Our research aims to advance this emerging paradigm of biomolecular condensates as functional
+		multiphase matter and dynamic biological assemblies. This will enable us to understand and
+		control fundamental biological processes, pinpoint and potentially reverse aberrant disease
+		pathways, and engineer adaptive multiphase materials. To do this, we will flexibly work at the
+		interface of multiple fields - often bridging our expertise across chemical/biomolecular
+		engineering and soft matter physics in the context of living cells.
+	</p>
 </div>
