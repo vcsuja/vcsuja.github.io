@@ -45,7 +45,7 @@
 	<p>
 		Our macroscopic world is made up of molecules that assemble into diverse and complex material
 		phases and states - familiar examples include foams, emulsions, <a
-			href="#"
+			href="/cv"
 			class="underline decoration-dotted underline-offset-4">crystalline solids</a
 		>, immiscible liquids, and polymeric materials .
 	</p>

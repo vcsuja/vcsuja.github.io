@@ -1,5 +1,1 @@
-<script>
-	import PdfViewer from 'svelte-pdf';
-</script>
-
-<PdfViewer url='/VineethChandranSujaResume.pdf' />
+<object class="w-full h-screen" type="application/pdf" data="/VineethChandranSujaResume.pdf" title="Vineeth Chandran Suja Resume"></object>
