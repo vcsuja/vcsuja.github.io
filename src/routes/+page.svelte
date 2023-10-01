@@ -21,8 +21,8 @@
 	];
 </script>
 
-<h1 class="text-4xl mb-2">Vineeth Chandran Suja</h1>
-<p class="text-sm mb-4">NSF-Simons Fellow of Quantitative Biology, Harvard University</p>
+<h1 class="text-4xl mb-2">Vineeth 'Vinny' Chandran Suja</h1>
+<p class="text-sm mb-4">Post doctoral Fellow, Harvard University</p>
 
 <div class="md:float-right mx-auto max-w-[210px] md:mx-10 my-10">
 	<img class="rounded-full mb-3" src={vinnyImage} alt="Vineeth 'Vinny' Chandran Suja" />
@@ -34,8 +34,7 @@
 </div>
 <div>
 	<p class="border-l-2 border-pink-400 pl-3 py-1 mb-5">
-		The Shrinivas Lab opens Feb 1 2024 at the Department of Chemical and Biological Engineering,
-		Northwestern University. We aim to build an inclusive and highly interdisciplinary environment
+		 We aim to build an inclusive and highly interdisciplinary environment
 		that brings together diverse researchers - including, but not limited to, engineers, physical
 		and life scientists, mathematicians, computer scientists, and MD-PhD students!
 		<br />
