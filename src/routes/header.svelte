@@ -1,5 +1,4 @@
 <script lang="ts">
-	import * as config from '$lib/config';
 	import { theme, toggleTheme } from '$lib/theme';
 	import { Moon, Sun } from 'lucide-svelte';
 	import { fly } from 'svelte/transition';
@@ -11,12 +10,9 @@
 			<strong class="font-bold">Vineeth</strong> Chandran Suja
 		</a>
 
-		<ul class="flex ml-auto space-x-2">
+		<ul class="flex ml-auto space-x-3">
 			<li>
 				<a href="/cv">CV</a>
-			</li>
-			<li>
-				<a href="/rss.xml" target="_blank">RSS </a>
 			</li>
 		</ul>
 

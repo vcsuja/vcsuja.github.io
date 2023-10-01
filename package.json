@@ -37,6 +37,7 @@
 	"type": "module",
 	"dependencies": {
 		"@fontsource/roboto": "^5.0.8",
-		"lucide-svelte": "^0.279.0"
+		"lucide-svelte": "^0.279.0",
+		"svelte-pdf": "^1.0.20"
 	}
 }
