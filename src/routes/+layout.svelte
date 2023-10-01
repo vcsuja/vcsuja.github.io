@@ -12,7 +12,7 @@
 
 <div class="grid grid-rows-[1fr_auto] min-h-screen dark:bg-zinc-900 dark:text-gray-300 font-light">
 	<Header />
-	<main class="container mx-auto mt-20 px-5">
+	<main class="max-w-screen-md w-full mx-auto mt-20 px-5">
 		<slot />
 	</main>
 	<Footer />
