@@ -5,17 +5,17 @@
 	const socialsData = [
 		{
 			icon: Mail,
-      label: "send mail",
+			label: 'send mail',
 			url: 'mailto:vinny@g.harvard.edu'
 		},
 		{
-      icon: Linkedin,
-      label: "visit linkedin profile",
+			icon: Linkedin,
+			label: 'visit linkedin profile',
 			url: 'https://www.linkedin.com/in/vineeth-chandran-suja-4700a264'
 		},
 		{
-      icon: Twitter,
-      label: "visit twtitter profile",
+			icon: Twitter,
+			label: 'visit twitter profile',
 			url: 'https://twitter.com/vinnysuja'
 		}
 	];
@@ -28,7 +28,9 @@
 	<img class="rounded-full mb-3" src={vinnyImage} alt="Vineeth 'Vinny' Chandran Suja" />
 	<div class="flex justify-center">
 		{#each socialsData as social}
-			<a href={social.url} target="_blank" class="mx-2"><svelte:component this={social.icon} size={20} /></a>
+			<a href={social.url} aria-label={social.label} target="_blank" class="mx-2"
+				><svelte:component this={social.icon} size={20} /></a
+			>
 		{/each}
 	</div>
 </div>
