@@ -24,8 +24,8 @@
 <h1 class="text-4xl mb-2">Vineeth 'Vinny' Chandran Suja</h1>
 <p class="text-sm mb-4">Post doctoral Researcher, Harvard University</p>
 
-<div class="md:float-right mx-auto max-w-[210px] md:mx-10 my-10">
-	<img class="rounded-full mb-3" src={vinnyImage} alt="Vineeth 'Vinny' Chandran Suja" />
+<div class="md:float-right mx-auto md:mx-10 my-10">
+	<img class="rounded-full mb-3 mx-auto" width="210" height="210" src={vinnyImage} alt="Vineeth 'Vinny' Chandran Suja" />
 	<div class="flex justify-center">
 		{#each socialsData as social}
 			<a href={social.url} aria-label={social.label} target="_blank" class="mx-2"
