@@ -36,72 +36,37 @@
 </div>
 <div>
 	<p class="border-l-2 border-pink-400 pl-3 py-1 mb-5">
-		 We aim to build an inclusive and highly interdisciplinary environment
-		that brings together diverse researchers - including, but not limited to, engineers, physical
-		and life scientists, mathematicians, computer scientists, and MD-PhD students!
+		Will be updated....
 		<br />
 		<br />
-		If you are interested in joining us or learning more about the lab, please reach out to me . A group
-		website will be up shortly!
+		Stay tuned
 	</p>
 
 	<h2 class="text-2xl">Inspiration</h2>
 	<p>
-		Our macroscopic world is made up of molecules that assemble into diverse and complex material
-		phases and states - familiar examples include foams, emulsions, <a
-			href="/cv"
-			class="underline decoration-dotted underline-offset-4">crystalline solids</a
-		>, immiscible liquids, and polymeric materials .
 	</p>
 	<br />
 	<p>
-		Cells comprise billions of biomolecules that self-organize into dozens of microscopic assemblies
-		called biomolecular condensates. Biomolecular condensates are found across the tree of life,
-		play key roles in development and physiology, and misregulated or aberrant in diseased states.
-		Phase transitions are increasingly understood to be a unifying mechanism driving condensate
-		assembly and function.
+		
 	</p>
 	<br />
 	<p>
-		Our research aims to advance this emerging paradigm of biomolecular condensates as functional
-		multiphase matter and dynamic biological assemblies. This will enable us to understand and
-		control fundamental biological processes, pinpoint and potentially reverse aberrant disease
-		pathways, and engineer adaptive multiphase materials. To do this, we will flexibly work at the
-		interface of multiple fields - often bridging our expertise across chemical/biomolecular
-		engineering and soft matter physics in the context of living cells.
+		
 	</p>
 	<br />
 	<p>
-		Cells comprise billions of biomolecules that self-organize into dozens of microscopic assemblies
-		called biomolecular condensates. Biomolecular condensates are found across the tree of life,
-		play key roles in development and physiology, and misregulated or aberrant in diseased states.
-		Phase transitions are increasingly understood to be a unifying mechanism driving condensate
-		assembly and function.
+		
 	</p>
 	<br />
 	<p>
-		Our research aims to advance this emerging paradigm of biomolecular condensates as functional
-		multiphase matter and dynamic biological assemblies. This will enable us to understand and
-		control fundamental biological processes, pinpoint and potentially reverse aberrant disease
-		pathways, and engineer adaptive multiphase materials. To do this, we will flexibly work at the
-		interface of multiple fields - often bridging our expertise across chemical/biomolecular
-		engineering and soft matter physics in the context of living cells.
+		
 	</p>
 	<br />
 	<p>
-		Cells comprise billions of biomolecules that self-organize into dozens of microscopic assemblies
-		called biomolecular condensates. Biomolecular condensates are found across the tree of life,
-		play key roles in development and physiology, and misregulated or aberrant in diseased states.
-		Phase transitions are increasingly understood to be a unifying mechanism driving condensate
-		assembly and function.
+		
 	</p>
 	<br />
 	<p>
-		Our research aims to advance this emerging paradigm of biomolecular condensates as functional
-		multiphase matter and dynamic biological assemblies. This will enable us to understand and
-		control fundamental biological processes, pinpoint and potentially reverse aberrant disease
-		pathways, and engineer adaptive multiphase materials. To do this, we will flexibly work at the
-		interface of multiple fields - often bridging our expertise across chemical/biomolecular
-		engineering and soft matter physics in the context of living cells.
+		
 	</p>
 </div>
