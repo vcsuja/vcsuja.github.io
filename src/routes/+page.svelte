@@ -42,7 +42,7 @@
 		
 	</p>
 
-	<h2 class="text-2xl">Inspiration</h2>
+	<h2 class="text-2xl"></h2>
 	<p>
 	</p>
 	<br />
