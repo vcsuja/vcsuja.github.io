@@ -9,7 +9,7 @@
 >
 	<div class="max-w-screen-md mx-auto flex items-center px-5">
 		<a href="/" class="text-lg">
-			<strong class="font-bold">Vineeth</strong> Chandran Suja
+			<strong class="font-bold">Vinny</strong> Chandran Suja
 		</a>
 
 		<ul class="flex ml-auto space-x-3">
