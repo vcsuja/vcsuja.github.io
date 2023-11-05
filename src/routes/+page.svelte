@@ -37,7 +37,7 @@
 <div>
 	<p class="border-l-2 border-pink-400 pl-3 py-1 mb-5">
 		I am a chemical engineer advancing interfacial and colloidal soft matter science for applications in drug delivery utilizing experimental, analytical, and data-driven tools. Check out my CV for more details.
-				
+		<br />		
 	</p>
 
 	<h2 class="text-2xl"></h2>
